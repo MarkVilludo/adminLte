@@ -11,8 +11,9 @@ composer require mark-villudo/admin-lte
 
 
 ## Usage
+//Add to config/app.php
 ```
-
+MarkVilludo\AdminLte\ServiceProvider::class,
 ```
 
 ## Installation
