@@ -28,14 +28,3 @@ php artisan vendor:publish --provider="MarkVilludo\AdminLte\ServiceProvider" --t
 php artisan vendor:publish --provider="MarkVilludo\AdminLte\ServiceProvider" --tag="views"
 ```
 
-## Credits
-
-```
-Master ng mga Master
-walang iba kundi si Master Jes Dolfo
-
-Facebook Profile
-https://www.facebook.com/jesdolfo
-
-```
-
