@@ -22,7 +22,7 @@ class ServiceProvider extends BaseServiceProvider {
 
         //publish assets in public folder for the css and js plugins
          $this->publishes([
-           __DIR__.'/../assets' => public_path('/assets'),
+           __DIR__.'/assets' => public_path('/'),
         ],'assets');
         //end
      
