@@ -1,0 +1,25 @@
+{
+    "name": "mark-villudo/admin-lte",
+    "description": "Laravel package for Admin LTE",
+    "keywords": [
+        "laravel",
+        "Admin",
+        "Lte",
+        "Free admin-lte",
+        "admin-lte"
+    ],
+    "authors": [
+        {
+            "name": "Mark Villudo"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "MarkVilludo\\AdminLte\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
