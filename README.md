@@ -29,3 +29,7 @@ php artisan vendor:publish --provider="MarkVilludo\AdminLte\ServiceProvider" --t
 php artisan vendor:publish --provider="MarkVilludo\AdminLte\ServiceProvider" --tag="views"
 ```
 
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
